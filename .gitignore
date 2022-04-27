@@ -1,0 +1,4 @@
+.idea
+uwsgi.*
+.vscode
+__pycache__
